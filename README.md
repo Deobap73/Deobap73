@@ -34,6 +34,7 @@ I recently graduated from DCI Digital Career Institute, where I honed my skills 
 ##  <h3 align="left">Be in contact with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/deolindobaptista" target="blank"><img align="center" src="https://github.com/Deobap73/Deobap73Pictures/blob/51d6088cc97d6d142c2a0871bc59bd7e8b9fda11/Assets/linked-in.svg" alt="deolindobaptista" height="50" width="60" /></a>
+  
 <a href="https://instagram.com/blessska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blessska" height="50" width="60" /></a>
 </p>
 
