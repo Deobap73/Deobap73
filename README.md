@@ -1,3 +1,4 @@
+![ Junior Full Stack Web Developer with a strong focus on front-end development and design](https://github.com/Deobap73/Deobap73Pictures/blob/main/Assets/GitHub%20Banner.png)
 # HI, I'm Deolindo Baptista 👋
 
 I'm a Junior Full Stack Web Developer with a **strong focus on front-end development and design**. I have a passion for creating intuitive and visually appealing user interfaces. My proficiency in design tools like **Figma** and **Photoshop**, combined with my web development skills, enable me to bring creative designs to life.
@@ -41,7 +42,6 @@ I recently graduated from DCI Digital Career Institute, where I honed my skills 
 
 ### Hi there 👋, Deolindo Baptista
 ####  Junior Full Stack Web Developer with a strong focus on front-end development and design
-![ Junior Full Stack Web Developer with a strong focus on front-end development and design](https://github.com/Deobap73/Deobap73Pictures/blob/main/Assets/GitHub%20Banner.png)
 
 I'm a Junior Full Stack Web Developer with a strong focus on front-end development and design. I have a passion for creating intuitive and visually appealing user interfaces. My proficiency in design tools like Figma and Photoshop, combined with my web development skills, enable me to bring creative designs to life.
 
@@ -62,9 +62,6 @@ Skills: Front-End Development: HTML5, CSS3, SASS, JavaScript, jQuery Design Tool
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Deobap73&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Deobap73/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/Deobap73)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Deobap73)  
 
