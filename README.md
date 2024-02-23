@@ -55,27 +55,23 @@ I recently graduated from DCI Digital Career Institute, where I honed my skills 
 </p>
 <br> <br>
 ## 📂 Projects
-
+<br> <br>
 - AI Image Annotation Tool
+
 - Personal Portfolio
+<br> <br>
 
-
-##  <h3 align="left">📫 Be in contact with me:</h3>
+- ## 📫  Be in contact with me:
+<br> <br>
 <p align="left">
-<a href="https://www.linkedin.com/in/deolindobaptista" target="blank"><img align="center" src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/linked-in-alt.svg" alt="deolindobaptista" height="50" width="60" /></a>
-
-<a href="https://github.com/Deobap73" target="blank"><img align="center" src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/github.svg" alt="deolindobaptista" height="50" width="60" /></a>
-
-
-<a href="https://wa.me/+4917634644129" target="blank"><img align="center" src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/whatsapp.svg" alt="deolindobaptista" height="60" width="60" /></a>
-
-
-<a href="mailto:contact@deolindobaptista.com" target="_blank">
-    <img align="center" src="https://github.com/Deobap73/Deobap73Pictures/blob/c3ebd3b8d7ef3169a38eaa12dc0db698d4a4c255/Assets/email.png" alt="deolindobaptista" height="60" width="60" />
-</a>
-
+    <a href="https://www.linkedin.com/in/deolindobaptista" target="blank"><img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/linked-in-alt.svg" alt="deolindobaptista" height="50" width="60" style="margin-right: 20px;" /></a>
+    <a href="https://github.com/Deobap73" target="blank"><img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/github.svg" alt="deolindobaptista" height="50" width="60" style="margin-right: 20px;" /></a>
+    <a href="https://wa.me/+4917634644129" target="blank"><img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/whatsapp.svg" alt="deolindobaptista" height="50" width="50" style="margin-right: 20px;" /></a>
+    <a href="mailto:contact@deolindobaptista.com" target="_blank">
+        <img src="https://github.com/Deobap73/Deobap73Pictures/blob/c3ebd3b8d7ef3169a38eaa12dc0db698d4a4c255/Assets/email.png" alt="deolindobaptista" height="50" width="50" style="margin-left: 20px;" />
+    </a>
 </p>
-
+<br> <br>
 
 
 
