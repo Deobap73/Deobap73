@@ -31,7 +31,6 @@ I recently graduated from DCI Digital Career Institute, where I honed my skills 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="70" height="70"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> </a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/nodejs.svg" alt="nodejs" width="70" height="70"/> </a>
 </p>
 <br>
 <br>
@@ -52,6 +51,7 @@ I recently graduated from DCI Digital Career Institute, where I honed my skills 
 <br> <br>
   <p align="left">
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/nodejs.svg" alt="nodejs" width="70" height="70"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/mongodb.svg" alt="mongoDB" width="70" height="70"/> </a>
 </p>
 <br> <br>
 ## 📂 Projects
