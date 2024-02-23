@@ -25,22 +25,25 @@ I recently graduated from DCI Digital Career Institute, where I honed my skills 
 - AI Image Annotation Tool
 - Personal Portfolio
 
-## 📫 Contact
 
-- Email: contact@deolindobaptista.com
-
-- LinkedIn: [Deolindo Baptista](/)
-
-##  <h3 align="left">Be in contact with me:</h3>
+##  <h3 align="left">📫 Be in contact with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deolindobaptista" target="blank"><img align="center" src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/android.svg" alt="deolindobaptista" height="50" width="60" /></a>
-  
-<a href="https://instagram.com/blessska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blessska" height="50" width="60" /></a>
+<a href="https://www.linkedin.com/in/deolindobaptista" target="blank"><img align="center" src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/linked-in-alt.svg" alt="deolindobaptista" height="50" width="60" /></a>
+
+<a href="https://github.com/Deobap73" target="blank"><img align="center" src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/github.svg" alt="deolindobaptista" height="50" width="60" /></a>
+
+
+<a href="https://wa.me/+4917634644129" target="blank"><img align="center" src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/whatsapp.svg" alt="deolindobaptista" height="60" width="60" /></a>
+
+
+<a href="mailto:contact@deolindobaptista.com" target="_blank">
+    <img align="center" src="https://github.com/Deobap73/Deobap73Pictures/blob/c3ebd3b8d7ef3169a38eaa12dc0db698d4a4c255/Assets/email.png" alt="deolindobaptista" height="60" width="60" />
+</a>
+
 </p>
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Deobap73)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/deolindobaptista//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.deolindobaptista.com)  
 
 
 
