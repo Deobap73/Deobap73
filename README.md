@@ -1,4 +1,4 @@
-![ Junior Full Stack Web Developer with a strong focus on front-end development and design](https://github.com/Deobap73/Deobap73Pictures/blob/bd9f1efbd8e4f3d584742ce09402b8691e8d84a6/Assets/GitHub%20Banner.png)
+![ Junior Full Stack Web Developer with a strong focus on front-end development and design](https://github.com/Deobap73/Deobap73Pictures/blob/d98759bd98ae13d4f9ed7f8442c76e41eaa2a9bf/Assets/GitHub%20Banner.png)
 # HI, I'm Deolindo Baptista 👋
 
 I'm a Junior Full Stack Web Developer with a **strong focus on front-end development and design**. I have a passion for creating intuitive and visually appealing user interfaces. My proficiency in design tools like **Figma** and **Photoshop**, combined with my web development skills, enable me to bring creative designs to life.
