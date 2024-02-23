@@ -35,5 +35,5 @@ I recently graduated from DCI Digital Career Institute, where I honed my skills 
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deovap73)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deobap73)](https://github.com/anuraghazra/github-readme-stats)
 
