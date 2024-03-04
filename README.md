@@ -74,7 +74,7 @@ A project where I try to explore my creativity in the design area, playing with 
 - Get in touch with me.
 - Explore the code languages I master.
 - See my interpersonal skills.
-- Keep your creations, your own art.
+- Browse some of my projects.
 - ...And soon follow my blog!
 
 <br> <br>
