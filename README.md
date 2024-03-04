@@ -54,17 +54,80 @@ I recently graduated from DCI Digital Career Institute, where I honed my skills 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/mongodb.svg" alt="mongoDB" width="70" height="70"/> </a>
 </p>
 <br> <br>
+
 ## 📂 Projects
+
 <br> <br>
 
-<div>
-  <img align="left" src="https://github.com/Deobap73/Deobap73Pictures/blob/daa96b511b7ebf571da282eaad4e505ebae1b9af/Assets/ImageAIGeneratorHomePage.png">
-  Hoje nós vamos mostrar algo que vai mudar a forma como você cria imagens. Algo que vai libertar a sua imaginação e a sua criatividade. Algo que vai te surpreender e te encantar. Nós chamamos de Image AI Generator. 🎯️Slide 2. Nós somos uma equipe de quatro pessoas, apaixonadas por tecnologia e design. Eu e o Alejandro cuidamos da parte de frontend, usando ferramentas como Figma, Photoshop, React vite, sass e react icons. O Ali e a Alexandra ficaram responsáveis pelo backend, usando expressJS, Cors, mongodb, cloudinary e OpenAI. 🎯️Slide 3. Elementos do nosso projeto. ImageAIGenerator é uma plataforma online que permite a qualquer pessoa criar imagens incríveis com o poder da inteligência artificial. Você só precisa digitar uma descrição do que você quer e o nosso sistema gera uma imagem para você. Você pode: Transformar ideias em imagens. Conectar-se com a comunidade. Organizar as imagens na sua conta pessoal. Manter as suas criações, a sua própria arte. 🎯️Slide 4. Tecnologias que usamos. Para fazer esse projeto, nós usamos as melhores e mais avançadas tecnologias disponíveis no mercado. Nós combinamos o poder do OpenAI, uma das maiores empresas de inteligência artificial do mundo, com o cloudinary, um serviço de armazenamento e manipulação de imagens na nuvem. Nós usamos o React vite, um framework de frontend que acelera o desenvolvimento e a performance das aplicações web. Nós usamos o Figma e o Photoshop, dois dos melhores softwares de design gráfico do mundo, para criar a interface e os elementos visuais do nosso projeto. Nós usamos o expressJS, o Cors e o mongodb, para criar uma API robusta e segura que conecta o frontend com o backend. E nós usamos o sass e o react icons, para dar um toque de estilo e personalidade ao nosso projeto. Além disso, nós usamos o GitHub, uma das principais plataformas de hospedagem e controle de versão de código, para gerenciar o nosso projeto de forma colaborativa e eficiente. Com o GitHub, nós pudemos criar branches, commits, pull requests e merges, para manter o nosso código organizado e atualizado
-</div>
-- AI Image Annotation Tool
-
-- Personal Portfolio
+## _ImageAIGenerator_
+ <br>
+ImageAIGenerator is an online platform that allows anyone to create incredible images with the power of artificial intelligence.
 <br> <br>
+You just need to enter a description of what you want and our system generates an image for you.
+<br> <br>
+
+## Features
+
+- You can Turn ideas into images.
+- Connect with the community.
+- Organize images in your personal account.
+- Keep your creations, your own art.
+ 
+  <img src="https://github.com/Deobap73/Deobap73Pictures/blob/daa96b511b7ebf571da282eaad4e505ebae1b9af/Assets/ImageAIGeneratorHomePage.png">
+
+## Technologies used.
+
+- To carry out this project, the best and most advanced technologies available on the market were used. Combine the power of **_OpenAI_**, one of the largest artificial intelligence companies in the world, with **_cloudinary_**, a cloud image storage and manipulation service.
+
+- **_React vite_**, a frontend framework that accelerates the development and performance of web applications.
+
+- **_Figma_** and **_Photoshop_**, two of the best graphic design software in the world, to create the interface and visual elements of the project.
+
+- **_ExpressJS_**, **_Cors_** and **_mongodb_** to create a robust and secure API that connects the frontend to the backend.
+
+- **_Sass_** and **_React icons_** to add a touch of style and personality to the project.
+
+  <img src="https://github.com/Deobap73/AI-image-generator-Client-Side/blob/d9fd3c4d379a7a6a61c1caed46c357492bcf6a70/client/src/assets/ImageAIGeneratorLoginPage.png">
+
+Additionally, **_GitHub_**, a leading code hosting and version control platform, was used to manage the project in a collaborative and efficient way.
+
+With GitHub, we can create branches, commits, pull requests, and merges to keep our code organized and up-to-date  
+  <br> <br>
+  <br> <br>
+  <br> <br>
+## _Personal website_
+ <br>
+
+Site created primarily to be my portfolio.
+
+A project where I try to explore my creativity in the design area, playing with minimalism and abstract ways of placing elements on the website
+<br> <br>
+<img src="https://github.com/Deobap73/Deobap73Pictures/blob/70b097a5d9c5003a1d214750172ec6903339e596/Assets/PortfolioHomePage.png">
+<br> <br>
+## In my website you can...
+
+- Get in touch with me.
+- Explore the code languages I master.
+- See my interpersonal skills.
+- Keep your creations, your own art.
+- ...And soon follow my blog!
+
+<br> <br>
+<img src="https://github.com/Deobap73/Deobap73Pictures/blob/70b097a5d9c5003a1d214750172ec6903339e596/Assets/PortfolioAboutPage.png">
+<br> <br>
+<img src="https://github.com/Deobap73/Deobap73Pictures/blob/70b097a5d9c5003a1d214750172ec6903339e596/Assets/PortfolioAboutPage2.png">
+<br> <br>
+
+## The Technologies I used.
+
+- **_React vite_**, a frontend framework that accelerates the development and performance of web applications.
+
+- **_Figma_** and **_Photoshop_**, two of the best graphic design software in the world, to create the interface and visual elements of the project.
+
+- **_Sass_** and **_React icons_** to add a touch of style and personality to the project.
+   <br> <br>
+  <br> <br>
+  <br> <br>
 
 - ## 📫  Be in contact with me:
 <br> <br>
