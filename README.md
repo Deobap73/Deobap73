@@ -55,11 +55,10 @@ I recently graduated from DCI Digital Career Institute, where I honed my skills 
 </p>
 <br> <br>
 
-## 📂 Projects
+## 📂 Some of my Projects
 
 <br> <br>
-
-## _ImageAIGenerator_
+## [_ImageAIGenerator_](https://www.image-aigenerator.com/)
  <br>
 ImageAIGenerator is an online platform that allows anyone to create incredible images with the power of artificial intelligence.
 <br> <br>
@@ -95,7 +94,7 @@ With GitHub, we can create branches, commits, pull requests, and merges to keep 
   <br> <br>
   <br> <br>
   <br> <br>
-## _Personal website_
+## [_Personal website_](http://www.deolindobaptista.com)
  <br>
 
 Site created primarily to be my portfolio.
@@ -127,7 +126,9 @@ A project where I try to explore my creativity in the design area, playing with 
 - **_Sass_** and **_React icons_** to add a touch of style and personality to the project.
    <br> <br>
   <br> <br>
+### _And if you are curious you can browse my repositories and see more of my work..._
   <br> <br>
+   <br> <br>
 
 - ## 📫  Be in contact with me:
 <br> <br>
