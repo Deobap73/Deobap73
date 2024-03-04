@@ -18,9 +18,87 @@ I recently graduated from DCI Digital Career Institute, where I honed my skills 
 
   <br> <br>
 
-## 🚀 Skills
 
 <br> 
+
+## 📂 Some of my Projects
+
+<br> <br>
+## [_ImageAIGenerator_](https://www.image-aigenerator.com/)
+ <br>
+ImageAIGenerator is an online platform that allows anyone to create incredible images with the power of artificial intelligence.
+<br> <br>
+You just need to enter a description of what you want and our system generates an image for you.
+<br> <br>
+
+## Features
+
+- You can Turn ideas into images.
+- Connect with the community.
+- Organize images in your personal account.
+- Keep your creations, your own art.
+ 
+  <img src="https://github.com/Deobap73/Deobap73Pictures/blob/daa96b511b7ebf571da282eaad4e505ebae1b9af/Assets/ImageAIGeneratorHomePage.png">
+
+## Technologies used.
+
+- To carry out this project, the best and most advanced technologies available on the market were used. Combine the power of <img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/openai-svgrepo-com.svg" alt="react" width="20" height="20"/>**_OpenAI_**, one of the largest artificial intelligence companies in the world, with <img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/cloudinary.svg" alt="react" width="20" height="20"/>**_cloudinary_**, a cloud image storage and manipulation service.
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>**_React vite_**, a frontend framework that accelerates the development and performance of web applications.
+
+- <img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/figma.svg" alt="Figma" width="15" height="15"/> **_Figma_** and     <img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/photoshop.svg" alt="Photoshop" width="20" height="20"/>**_Photoshop_**, two of the best graphic design software in the world, to create the interface and visual elements of the project.
+
+- <img src="https://github.com/Deobap73/Deobap73Pictures/blob/772a63b51dc7f5598d4a7aa7375d49178768d608/Assets/pngegg.png" alt="react" width="20" height="20"/>**_ExpressJS_**, **_Cors_** and <img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/mongodb.svg" alt="mongoDB" width="20" height="20"/>**_mongodb_** to create a robust and secure API that connects the frontend to the backend.
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>**_Sass_** and **_React icons_** to add a touch of style and personality to the project.
+
+  <img src="https://github.com/Deobap73/AI-image-generator-Client-Side/blob/d9fd3c4d379a7a6a61c1caed46c357492bcf6a70/client/src/assets/ImageAIGeneratorLoginPage.png">
+
+Additionally, <img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/github-svgrepo-com.svg" alt="sass" width="20" height="20"/>**_GitHub_**, a leading code hosting and version control platform, was used to manage the project in a collaborative and efficient way.
+
+With GitHub, we can create branches, commits, pull requests, and merges to keep our code organized and up-to-date  
+  <br> <br>
+  <br> <br>
+  <br> <br>
+## [_Personal website_](http://www.deolindobaptista.com)
+ <br>
+
+Site created primarily to be my portfolio.
+
+A project where I try to explore my creativity in the design area, playing with minimalism and abstract ways of placing elements on the website
+<br> <br>
+<img src="https://github.com/Deobap73/Deobap73Pictures/blob/70b097a5d9c5003a1d214750172ec6903339e596/Assets/PortfolioHomePage.png">
+<br> <br>
+## In my website you can...
+
+- Get in touch with me.
+- Explore the code languages I master.
+- See my interpersonal skills.
+- Keep your creations, your own art.
+- ...And soon follow my blog!
+
+<br> <br>
+<img src="https://github.com/Deobap73/Deobap73Pictures/blob/70b097a5d9c5003a1d214750172ec6903339e596/Assets/PortfolioAboutPage.png">
+<br> <br>
+<img src="https://github.com/Deobap73/Deobap73Pictures/blob/70b097a5d9c5003a1d214750172ec6903339e596/Assets/PortfolioAboutPage2.png">
+<br> <br>
+
+## The Technologies I used.
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>**_React vite_**, a frontend framework that accelerates the development and performance of web applications.
+
+- <img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/figma.svg" alt="Figma" width="15" height="15"/> **_Figma_** and     <img src="https://raw.githubusercontent.com/Deobap73/Deobap73Pictures/main/Assets/photoshop.svg" alt="Photoshop" width="20" height="20"/>**_Photoshop_**, two of the best graphic design software in the world, to create the interface and visual elements of the project.
+
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="20" height="20"/>**_Sass_** and **_React icons_** to add a touch of style and personality to the project.
+   <br> <br>
+  <br> <br>
+  
+### _And if you are curious you can browse my repositories and see more of my work..._
+
+  <br> <br>
+   <br> <br>
+   
+## 🚀 Skills
 
 **Front-End Development**: 
 <br> <br>
@@ -55,80 +133,7 @@ I recently graduated from DCI Digital Career Institute, where I honed my skills 
 </p>
 <br> <br>
 
-## 📂 Some of my Projects
 
-<br> <br>
-## [_ImageAIGenerator_](https://www.image-aigenerator.com/)
- <br>
-ImageAIGenerator is an online platform that allows anyone to create incredible images with the power of artificial intelligence.
-<br> <br>
-You just need to enter a description of what you want and our system generates an image for you.
-<br> <br>
-
-## Features
-
-- You can Turn ideas into images.
-- Connect with the community.
-- Organize images in your personal account.
-- Keep your creations, your own art.
- 
-  <img src="https://github.com/Deobap73/Deobap73Pictures/blob/daa96b511b7ebf571da282eaad4e505ebae1b9af/Assets/ImageAIGeneratorHomePage.png">
-
-## Technologies used.
-
-- To carry out this project, the best and most advanced technologies available on the market were used. Combine the power of **_OpenAI_**, one of the largest artificial intelligence companies in the world, with **_cloudinary_**, a cloud image storage and manipulation service.
-
-- **_React vite_**, a frontend framework that accelerates the development and performance of web applications.
-
-- **_Figma_** and **_Photoshop_**, two of the best graphic design software in the world, to create the interface and visual elements of the project.
-
-- **_ExpressJS_**, **_Cors_** and **_mongodb_** to create a robust and secure API that connects the frontend to the backend.
-
-- **_Sass_** and **_React icons_** to add a touch of style and personality to the project.
-
-  <img src="https://github.com/Deobap73/AI-image-generator-Client-Side/blob/d9fd3c4d379a7a6a61c1caed46c357492bcf6a70/client/src/assets/ImageAIGeneratorLoginPage.png">
-
-Additionally, **_GitHub_**, a leading code hosting and version control platform, was used to manage the project in a collaborative and efficient way.
-
-With GitHub, we can create branches, commits, pull requests, and merges to keep our code organized and up-to-date  
-  <br> <br>
-  <br> <br>
-  <br> <br>
-## [_Personal website_](http://www.deolindobaptista.com)
- <br>
-
-Site created primarily to be my portfolio.
-
-A project where I try to explore my creativity in the design area, playing with minimalism and abstract ways of placing elements on the website
-<br> <br>
-<img src="https://github.com/Deobap73/Deobap73Pictures/blob/70b097a5d9c5003a1d214750172ec6903339e596/Assets/PortfolioHomePage.png">
-<br> <br>
-## In my website you can...
-
-- Get in touch with me.
-- Explore the code languages I master.
-- See my interpersonal skills.
-- Keep your creations, your own art.
-- ...And soon follow my blog!
-
-<br> <br>
-<img src="https://github.com/Deobap73/Deobap73Pictures/blob/70b097a5d9c5003a1d214750172ec6903339e596/Assets/PortfolioAboutPage.png">
-<br> <br>
-<img src="https://github.com/Deobap73/Deobap73Pictures/blob/70b097a5d9c5003a1d214750172ec6903339e596/Assets/PortfolioAboutPage2.png">
-<br> <br>
-
-## The Technologies I used.
-
-- **_React vite_**, a frontend framework that accelerates the development and performance of web applications.
-
-- **_Figma_** and **_Photoshop_**, two of the best graphic design software in the world, to create the interface and visual elements of the project.
-
-- **_Sass_** and **_React icons_** to add a touch of style and personality to the project.
-   <br> <br>
-  <br> <br>
-### _And if you are curious you can browse my repositories and see more of my work..._
-  <br> <br>
-   <br> <br>
 
 - ## 📫  Be in contact with me:
 <br> <br>
