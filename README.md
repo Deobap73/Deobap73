@@ -1,15 +1,18 @@
 ![ Junior Full Stack Web Developer with a strong focus on front-end development and design](https://github.com/Deobap73/Deobap73Pictures/blob/d98759bd98ae13d4f9ed7f8442c76e41eaa2a9bf/Assets/GitHub%20Banner.png)
 # <p align="center">HI, I'm Deolindo Baptista 👋</p>
 
-I'm a Junior Full Stack Web Developer with a **strong focus on front-end development and design**. I have a passion for creating intuitive and visually appealing user interfaces. My proficiency in design tools like **Figma** and **Photoshop**, combined with my web development skills, enable me to bring creative designs to life.
+Versatile professional with a strong focus on Front-End Development and Project Management, offering a solid foundation in building high-performance web applications and managing projects effectively. Graduate as a Full Stack Web Developer, I'm skilled in React.js, Sass, Figma, and GitHub—with hands-on experience using the MERN stack. I am passionate about delivering innovative web solutions, especially in remote and hybrid work environments.
 
-I recently graduated from DCI Digital Career Institute, where I honed my skills in JavaScript, React, Node.js, Express, and MongoDB. I'm eager to apply these skills and learn more about other programming languages.
+As a technology enthusiast and self-taught Graphic Designer, I possess a keen eye for UI/UX design and Design Thinking. With strong communication, leadership, and organizational skills, I excel in managing distributed teams and driving projects to successful completion. Currently, I am eager to leverage my expertise in front-end development or project management within a fast-paced tech startup or innovative company.
 <br> <br>
 
 
 ## 🎓 Education
 
 - Full Stack Web Developer Formation, DCI Digital Career Institute GmbH, Germany (Jan 2023 - Feb 2024)
+- Foundations of Project Management, Google Career Certificates (August 2024)
+- Project Initiation: Starting a Successful Project, Google Career Certificates (September 2024)
+- Project Planning: Putting It All Together, Google Career Certificates (September 2024)
  <br> <br>
 
 ## 💼 Work Experience
