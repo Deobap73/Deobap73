@@ -6,6 +6,7 @@ I'm a Junior Full Stack Web Developer with a **strong focus on front-end develop
 I recently graduated from DCI Digital Career Institute, where I honed my skills in JavaScript, React, Node.js, Express, and MongoDB. I'm eager to apply these skills and learn more about other programming languages.
 <br> <br>
 
+
 ## 🎓 Education
 
 - Full Stack Web Developer Formation, DCI Digital Career Institute GmbH, Germany (Jan 2023 - Feb 2024)
