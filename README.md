@@ -9,7 +9,7 @@ As a technology enthusiast and self-taught Graphic Designer, I possess a keen ey
 
 ## 🎓 Education
 
-- Full Stack Web Developer Formation, DCI Digital Career Institute GmbH, Germany (Jan 2023 - Feb 2024)
+- Full Stack Web Developer Formation, DCI Digital Career Institute GmbH, Germany
 - Foundations of Project Management, Google Career Certificates (August 2024)
 - Project Initiation: Starting a Successful Project, Google Career Certificates (September 2024)
 - Project Planning: Putting It All Together, Google Career Certificates (September 2024)
